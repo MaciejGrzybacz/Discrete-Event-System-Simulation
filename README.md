@@ -1,4 +1,4 @@
-# Pedestrian Detection and Traffic Simulation Repository
+# Discrete Systems Simulations
 
 ## Overview
 This repository hosts a collection of simulation and analysis projects primarily focused on traffic systems and pedestrian dynamics, all implemented in Java and Java Swing. Each project within this repository utilizes these technologies to explore different aspects of auto and pedestrian traffic simulation.
